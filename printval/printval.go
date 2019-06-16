@@ -9,3 +9,7 @@ func Print() {
 func Print2() {
 	fmt.Println("2")
 }
+
+func Print3() {
+	fmt.Println("2")
+}
